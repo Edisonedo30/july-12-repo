@@ -1,0 +1,2 @@
+No, the local repository name and remote repository name do not have to be the same. Git does not
+care about the folder name; it only cares about the connection between your local repository and the remote repository URL.
